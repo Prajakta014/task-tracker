@@ -3,7 +3,6 @@
 A full-stack Task Tracker built with **MongoDB, Express.js, React.js, Node.js (MERN Stack)**.
 
 ---
-
 ## Features
 
 - ✅ Create, Read, Update, Delete tasks (Full CRUD)
